@@ -1,0 +1,15 @@
+<DOCTYPE html>
+<html>
+	<head>
+
+	</head>
+	<body>
+
+	<h1> Conditionals </h1>
+	<p id='content'> </p>
+
+	<script type="js/conditionals"></script>
+
+
+	</body>
+</html>
